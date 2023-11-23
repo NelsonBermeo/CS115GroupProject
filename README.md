@@ -9,4 +9,8 @@ My name is Nelson Bermeo and I am a CS freshman at Stevens Instiute of Technolog
 # What I learned
 - I learned how to optimize a method that checks two lists for similar data. You know when you can just have a nested loop with for i in something if i in something else then blah blah. Well when working with big data, that code will be slow because you'd have to go through a whole list for every index in another list. Instead, the textbook showed me a way to compare lists with a while loop with two sorted lists and incrementing indexes. The idea was that if something from one list was smaller than another and if it looks in that other list but the index there is greater than that smaller index then we don't have to conitnue checking because the list is sorted.
 - I used the new optimization here to create a similar method but for "not in"
--  
+- I learned how to create and edit files from python
+- I learned how to work within a team and help others get their tasks done while taking critique from them and fixing my own code
+
+# Moving Forward 
+This project opened my eyes to the possibilities of projects I can build because it was so fun. In the future I plan to build more projects based off tutorials and pick up skills and patterns to then make a proejct without any tutorial! 
